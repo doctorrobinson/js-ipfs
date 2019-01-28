@@ -56,7 +56,6 @@ class Node extends libp2p {
           kBucketSize: 20
         },
         EXPERIMENTAL: {
-          dht: false,
           pubsub: false
         }
       }

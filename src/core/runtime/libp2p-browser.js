@@ -52,7 +52,6 @@ class Node extends libp2p {
           }
         },
         EXPERIMENTAL: {
-          dht: false,
           pubsub: false
         }
       }
